@@ -35,5 +35,5 @@ Although XSite includes a mobile application, this repository is primarily focus
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/xsite.git
+git clone https://github.com/Codewithmahesh/Sitex.git
 cd xsite
